@@ -1,0 +1,51 @@
+.container
+{
+    text-align: center;
+}
+#img1{
+  width: 100%;
+}
+.img2{
+    width: 250px;
+    height: 200px;
+}
+
+.menu1{
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  width: 100%;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+}
+
+
+#myCarousel img
+{
+    height: 350px;
+       }
+#myCarousel
+{
+background-color: red;}
+
+.carousel-inner {
+   
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+    padding:20px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;}
